@@ -5,7 +5,7 @@ This repository contains two data science pipelines designed to predict chronic 
 The project leverages demographic indicators, physiological examinations, lifestyle factors, and clinical laboratory values to benchmark both traditional and modern gradient-boosted machine learning frameworks.
 
 
-# 🧠 Technical Overview & Architecture
+# Technical Overview & Architecture
 
 Both notebooks follow a standardized machine learning workflow implemented in Python:
 
