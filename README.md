@@ -132,13 +132,6 @@ The depression pipeline extends the benchmarking framework with additional class
 * LightGBM Classifier
 * XGBoost Classifier
 * CatBoost Classifier
-* Multi-Layer Perceptron (`MLPClassifier`)
-
-The notebook also includes:
-
-* custom probability threshold tuning,
-* precision-recall optimization,
-* and clinical screening calibration (e.g. `threshold = 0.45`).
 
 
 ---
